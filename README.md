@@ -1,1 +1,2 @@
 # GitHomework
+some changes vozniuk
